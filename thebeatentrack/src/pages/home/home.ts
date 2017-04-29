@@ -21,7 +21,7 @@ export class HomePage {
       'name': 'Belfast City Hall',
       'description': 'Belfast City Hall, the greatest place on the planet.... Yeah right...',
       'category': 'architecture',
-      'image': 'https://placeholdit.imgix.net/~text?txtsize=33&txt=200x100&w=200&h=100',
+      'image': 'https://www.flickr.com/photos/proni/15862240180/',
       'rating': 5,
       'type': 'indoor'
     }, {
