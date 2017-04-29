@@ -18,10 +18,10 @@ export class HomePage {
       "id": 1,
       "lat": 54.5967204,
       "long": -5.9322092,
-      'name': 'Belfast City Hall',
-      'description': 'Belfast City Hall, the greatest place on the planet.... Yeah right...',
+      'name': 'Route 1',
+      'description': 'Follow route 1...',
       'category': 'architecture',
-      'image': 'https://www.flickr.com/photos/proni/15862240180/',
+      'image': 'https://files.slack.com/files-pri/T22GN32KB-F55SEDMME/image.png',
       'rating': 5,
       'type': 'indoor'
     }, {
