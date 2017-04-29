@@ -6,8 +6,11 @@ import { MyApp } from './app.component';
 import { ToursPage } from '../pages/tours/tours';
 import { InfoPage } from '../pages/info/info';
 import { MapPage } from '../pages/map/map';
+import { LocationsPage } from '../pages/locations/locations';
 import { HomePage } from '../pages/home/home';
 import { TabsPage } from '../pages/tabs/tabs';
+//import { CategoriesPage } from '../pages/categories/categories';
+import { ArPage } from '../pages/ar_page/ar_page';
 
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
@@ -19,7 +22,10 @@ import { SplashScreen } from '@ionic-native/splash-screen';
     InfoPage,
     MapPage,
     HomePage,
-    TabsPage
+    TabsPage,
+    LocationsPage,
+    ArPage
+  //  CategoriesPage
   ],
   imports: [
     BrowserModule,
@@ -32,7 +38,10 @@ import { SplashScreen } from '@ionic-native/splash-screen';
     InfoPage,
     MapPage,
     HomePage,
-    TabsPage
+    TabsPage,
+    LocationsPage,
+    ArPage
+  //  CategoriesPage
   ],
   providers: [
     StatusBar,
